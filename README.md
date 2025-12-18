@@ -1,5 +1,3 @@
-# Network Security Labs
-
-Ziel: Vorbereitung auf CompTIA Network+  
-Fokus: Netzwerkgrundlagen & Security  
-Start: Dezember 2025
+Goal: Preparation for CompTIA Network+
+Focus: Networking fundamentals & security
+Start: December 2025

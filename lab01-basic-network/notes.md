@@ -20,6 +20,7 @@ Completed (basic setup).
 - Placed and connected all network devices
 - Configured the wireless router as the central network device
 - Enabled DHCP on all devices
+- Replaced Laptops Ethernet Adapter with a Wifi adapter
 - Set PC and laptop to obtain IP configuration automatically
 - Verified that both devices received valid IP addresses
 

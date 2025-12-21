@@ -35,4 +35,5 @@ Router:
 - Routers connect different subnets (Layer 3)
 - Devices in different networks require a router to communicate
 - The default gateway enables traffic to leave the local subnet
+- The difference between a Subnet and a Subnetmask
 
